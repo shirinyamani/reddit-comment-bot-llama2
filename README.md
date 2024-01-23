@@ -19,6 +19,7 @@ pip install -r requirements.txt
 1. Clone the repo
 ```python
 git clone
+```
 2. Run the bot in the directory where you cloned the repo
 ```python
 python main.py
