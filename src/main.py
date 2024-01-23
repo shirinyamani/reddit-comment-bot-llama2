@@ -5,6 +5,7 @@ import time
 import requests
 from constants import *
 
+
 #SET USER AGENT
 url = "https://www.reddit.com/api/v1/me"
 # Set your user agent in the headers
